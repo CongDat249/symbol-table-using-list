@@ -1,0 +1,12 @@
+INSERT x number
+BEGIN
+BEGIN
+INSERT x number
+END
+END
+BEGIN
+INSERT x number
+INSERT y number
+INSERT z number
+PRINT
+END

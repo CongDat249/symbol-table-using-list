@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zoe/Desktop/Assignment/SymbolTable.cpp
+SymbolTable.h
+/home/zoe/Desktop/Assignment/SymbolTable.h
+
+/home/zoe/Desktop/Assignment/SymbolTable.h
+main.h
+/home/zoe/Desktop/Assignment/main.h
+
+/home/zoe/Desktop/Assignment/error.h
+string
+-
+stdio.h
+-
+string.h
+-
+iostream
+-
+
+/home/zoe/Desktop/Assignment/main.cpp
+SymbolTable.h
+/home/zoe/Desktop/Assignment/SymbolTable.h
+SymbolTable.cpp
+/home/zoe/Desktop/Assignment/SymbolTable.cpp
+
+/home/zoe/Desktop/Assignment/main.h
+iostream
+-
+string
+-
+fstream
+-
+regex
+-
+error.h
+/home/zoe/Desktop/Assignment/error.h
+

@@ -1,0 +1,73 @@
+Testcase 936:
+INSERT gY string
+INSERT lT string
+INSERT mg6nz number
+INSERT fJc number
+INSERT w number
+INSERT n number
+INSERT nQfp6p number
+BEGIN
+INSERT n number
+INSERT r number
+INSERT hDHh6L string
+RPRINT
+INSERT orDLbg number
+INSERT g6nOy string
+RPRINT
+RPRINT
+INSERT wxK number
+INSERT ru7a string
+INSERT uPG number
+INSERT e number
+PRINT
+END
+INSERT v number
+INSERT sig string
+END
+LOOKUP n
+INSERT nj88Z number
+ASSIGN gY 319
+INSERT xNut number
+ASSIGN w 562
+INSERT kgPHA number
+PRINT
+INSERT yf8z string
+mWvU xv5C4t
+INSERT k3Un number
+RPRINT
+INSERT j number
+INSERT lDhYj number
+INSERT uB string
+INSERT x string
+INSERT jN number
+q7vvn x
+INSERT gTJLf number
+LOOKUP orDLbg
+PRINT
+BEGIN
+END
+INSERT tA string
+BEGIN
+INSERT gqvdrI string
+INSERT nMv number
+END
+INSERT nh number
+INSERT lbuy string
+RPRINT
+INSERT q number
+PRINT
+INSERT o number
+INSERT h string
+INSERT sDBO string
+LOOKUP gY
+INSERT rG number
+LOOKUP sig
+INSERT xDXzc string
+INSERT e number
+INSERT u string
+INSERT o2Ze number
+oxD m_
+INSERT pC number
+INSERT nAppnO number
+o9 g1DjAS
+LOOKUP lbuy
